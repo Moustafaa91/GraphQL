@@ -1,0 +1,25 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "Learning project for GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moustafaa91/GraphQL-TestProject.git"
+  },
+  "author": "Mostafa Attia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moustafaa91/GraphQL-TestProject/issues"
+  },
+  "homepage": "https://github.com/Moustafaa91/GraphQL-TestProject#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "graphql-http": "^1.22.1",
+    "ruru": "^2.0.0-beta.13"
+  }
+}
