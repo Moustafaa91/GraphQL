@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moustafaa91/GraphQL-TestProject.git"
+    "url": "git+https://github.com/Moustafaa91/GraphQL.git"
   },
   "author": "Mostafa Attia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Moustafaa91/GraphQL-TestProject/issues"
+    "url": "https://github.com/Moustafaa91/GraphQL/issues"
   },
-  "homepage": "https://github.com/Moustafaa91/GraphQL-TestProject#readme",
+  "homepage": "https://github.com/Moustafaa91/GraphQL#readme",
   "dependencies": {
     "express": "^4.21.1",
     "graphql": "^16.9.0",
